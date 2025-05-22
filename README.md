@@ -1,5 +1,7 @@
 # Deploy_a_web_application_with_ngnix_and_MySQL
 # Simple Notes App for TWS Community
+I have deploy a web application with ngnix and mysql .
+#Devloper works
 This is a simple notes app built with React and Django.
 
 ## Requirements
